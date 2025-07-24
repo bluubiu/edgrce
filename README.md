@@ -1,4 +1,4 @@
-![Hairunisa asanti](/header.png)
+![Header](/github-header-image%20(2).png)
 ###
 
 <div align="center">
