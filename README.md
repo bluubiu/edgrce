@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="/header.png" alt="Header" />
+</div>
 <h1 align="center">Hey 👋What's Up? I'm Hairunisa</h1>
 
 ###
@@ -62,16 +65,14 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/edgrce/edgrce/output/snake.svg" alt="Snake animation" />
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edgrce/edgrce/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edgrce/edgrce/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/edgrce/edgrce/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/edgrce/edgrce/output/snake.svg" alt="Snake animation" />
 
 ###
